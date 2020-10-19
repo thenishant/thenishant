@@ -12,9 +12,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for How to click css selector by text using selenium python](https://stackoverflow.com/questions/64422617/how-to-click-css-selector-by-text-using-selenium-python/64423145#64423145)
 - [Answer by theNishant for How to change a datetime format in python?](https://stackoverflow.com/questions/64137532/how-to-change-a-datetime-format-in-python/64137672#64137672)
 - [Answer by theNishant for Why can't I select this? - Selenium](https://stackoverflow.com/questions/64096271/why-cant-i-select-this-selenium/64098566#64098566)
 - [Answer by theNishant for Need help using selenium](https://stackoverflow.com/questions/63956311/need-help-using-selenium/63957078#63957078)
 - [Answer by theNishant for selenium webdriver using Google Chrome](https://stackoverflow.com/questions/63895791/selenium-webdriver-using-google-chrome/63896626#63896626)
-- [Answer by theNishant for How to raise a DeprecationWarning when catching an exception with python?](https://stackoverflow.com/questions/63843257/how-to-raise-a-deprecationwarning-when-catching-an-exception-with-python/63843462#63843462)
 <!-- STACKOVERFLOW:END -->

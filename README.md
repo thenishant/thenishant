@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for Unable to launch selenium with python in Mac OS SUR](https://stackoverflow.com/questions/66405858/unable-to-launch-selenium-with-python-in-mac-os-sur/66406829#66406829)
 - [Answer by theNishant for Chromedriver cannot retrieve the element when .add_argument("--headless")?](https://stackoverflow.com/questions/66346610/chromedriver-cannot-retrieve-the-element-when-add-argument-headless/66346963#66346963)
 - [Answer by theNishant for Python Selenium click()](https://stackoverflow.com/questions/65317545/python-selenium-click/65319114#65319114)
 - [Answer by theNishant for Not able to perform the vertical scrolling](https://stackoverflow.com/questions/64535629/not-able-to-perform-the-vertical-scrolling/64537660#64537660)
 - [Answer by theNishant for why doesn't selenium work properly on manjaro (PATH problem)](https://stackoverflow.com/questions/64535963/why-doesnt-selenium-work-properly-on-manjaro-path-problem/64537454#64537454)
-- [Answer by theNishant for How to click css selector by text using selenium python](https://stackoverflow.com/questions/64422617/how-to-click-css-selector-by-text-using-selenium-python/64423145#64423145)
 <!-- STACKOVERFLOW:END -->

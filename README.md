@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for I am trying to make Selenium click on the first google result, but it always gives me an error](https://stackoverflow.com/questions/68252981/i-am-trying-to-make-selenium-click-on-the-first-google-result-but-it-always-giv/68253116#68253116)
 - [Answer by theNishant for FInd Element and Click. If Not Found goto next page](https://stackoverflow.com/questions/68194506/find-element-and-click-if-not-found-goto-next-page/68194588#68194588)
 - [Answer by theNishant for How to click anywhere on a website to close an option (Selenium)](https://stackoverflow.com/questions/68178259/how-to-click-anywhere-on-a-website-to-close-an-option-selenium/68178540#68178540)
 - [Answer by theNishant for Python Selenium Error: Message: stale element reference: element is not attached to the page document](https://stackoverflow.com/questions/68135798/python-selenium-error-message-stale-element-reference-element-is-not-attached/68136470#68136470)
 - [Answer by theNishant for How to get <b> tag without class using Selenium](https://stackoverflow.com/questions/68115290/how-to-get-b-tag-without-class-using-selenium/68115519#68115519)
-- [Answer by theNishant for Selenium - unable to submit comment](https://stackoverflow.com/questions/67662651/selenium-unable-to-submit-comment/67667371#67667371)
 <!-- STACKOVERFLOW:END -->

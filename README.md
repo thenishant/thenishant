@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for (Selenium/Python) Tracking the code 200 after clicking on the element](https://stackoverflow.com/questions/68391732/selenium-python-tracking-the-code-200-after-clicking-on-the-element/68392504#68392504)
 - [Answer by theNishant for Selenium click button CSS_SELECTOR. Button type = submit](https://stackoverflow.com/questions/68389319/selenium-click-button-css-selector-button-type-submit/68389382#68389382)
 - [Answer by theNishant for Crawl multiple page using Selenium and for loop](https://stackoverflow.com/questions/68388081/crawl-multiple-page-using-selenium-and-for-loop/68388893#68388893)
 - [Answer by theNishant for How can I run selenium on Linux?](https://stackoverflow.com/questions/68283578/how-can-i-run-selenium-on-linux/68283750#68283750)
 - [Answer by theNishant for I am trying to make Selenium click on the first google result, but it always gives me an error](https://stackoverflow.com/questions/68252981/i-am-trying-to-make-selenium-click-on-the-first-google-result-but-it-always-giv/68253116#68253116)
-- [Answer by theNishant for FInd Element and Click. If Not Found goto next page](https://stackoverflow.com/questions/68194506/find-element-and-click-if-not-found-goto-next-page/68194588#68194588)
 <!-- STACKOVERFLOW:END -->

@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for Selenium with Python Framework few queries](https://stackoverflow.com/questions/68464266/selenium-with-python-framework-few-queries/68464357#68464357)
 - [Answer by theNishant for How do I get the value between the start and end tag Python Selenium?](https://stackoverflow.com/questions/68457994/how-do-i-get-the-value-between-the-start-and-end-tag-python-selenium/68458182#68458182)
 - [Answer by theNishant for (Selenium/Python) Tracking the code 200 after clicking on the element](https://stackoverflow.com/questions/68391732/selenium-python-tracking-the-code-200-after-clicking-on-the-element/68392504#68392504)
 - [Answer by theNishant for Selenium click button CSS_SELECTOR. Button type = submit](https://stackoverflow.com/questions/68389319/selenium-click-button-css-selector-button-type-submit/68389382#68389382)
 - [Answer by theNishant for Crawl multiple page using Selenium and for loop](https://stackoverflow.com/questions/68388081/crawl-multiple-page-using-selenium-and-for-loop/68388893#68388893)
-- [Answer by theNishant for How can I run selenium on Linux?](https://stackoverflow.com/questions/68283578/how-can-i-run-selenium-on-linux/68283750#68283750)
 <!-- STACKOVERFLOW:END -->

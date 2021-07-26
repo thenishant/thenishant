@@ -3,8 +3,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Year in Covid: Retro](https://thenishant3.medium.com/a-year-in-covid-retro-632bf6cdf1c7?source=rss-97b0bdcd7e66------2)
 - [Store images in MongoDB via Python](https://dev.to/thenishant/store-images-in-mongodb-via-python-2g73)
 - [Deploy any web app to Vercel](https://dev.to/thenishant/deploy-any-web-app-to-vercel-1ka8)
+- [Screenplay Pattern](https://medium.com/testvagrant/screenplay-pattern-3490c7f0c23c?source=rss-97b0bdcd7e66------2)
+- [Dockerizing Appium Tests](https://medium.com/testvagrant/dockerizing-appium-tests-c9696809afec?source=rss-97b0bdcd7e66------2)
 <!-- BLOG-POST-LIST:END -->
 
 

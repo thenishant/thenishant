@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for How do you fail a unittest in python if an error message does not pop up on the tested webpage when it should?](https://stackoverflow.com/questions/68548775/how-do-you-fail-a-unittest-in-python-if-an-error-message-does-not-pop-up-on-the/68550413#68550413)
+- [Answer by theNishant for Removing parts of a string returned when scraping with Selenium](https://stackoverflow.com/questions/68550003/removing-parts-of-a-string-returned-when-scraping-with-selenium/68550156#68550156)
 - [Answer by theNishant for How to select date from makemytrip having two months in popup](https://stackoverflow.com/questions/68544732/how-to-select-date-from-makemytrip-having-two-months-in-popup/68545656#68545656)
 - [Answer by theNishant for How to check for visibility of an element in Selenium using POM](https://stackoverflow.com/questions/68528997/how-to-check-for-visibility-of-an-element-in-selenium-using-pom/68529091#68529091)
 - [Answer by theNishant for Run whole selenium project in docker (Gradle + Selenium + java + junit + docker)](https://stackoverflow.com/questions/68528409/run-whole-selenium-project-in-docker-gradle-selenium-java-junit-docker/68528550#68528550)
-- [Answer by theNishant for Python selenium get table values into List of Lists](https://stackoverflow.com/questions/68493519/python-selenium-get-table-values-into-list-of-lists/68494244#68494244)
-- [Answer by theNishant for Selenium with Python Framework few queries](https://stackoverflow.com/questions/68464266/selenium-with-python-framework-few-queries/68464357#68464357)
 <!-- STACKOVERFLOW:END -->

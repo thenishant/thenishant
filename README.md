@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for find number of class after finding element by its xpath](https://stackoverflow.com/questions/68594272/find-number-of-class-after-finding-element-by-its-xpath/68594398#68594398)
 - [Answer by theNishant for Error with selenium when trying to input email and password PYTHON](https://stackoverflow.com/questions/68590878/error-with-selenium-when-trying-to-input-email-and-password-python/68591096#68591096)
 - [Answer by theNishant for Reading text from file and attaching to link in selenium with python](https://stackoverflow.com/questions/68549229/reading-text-from-file-and-attaching-to-link-in-selenium-with-python/68576180#68576180)
 - [Answer by theNishant for How do you fail a unittest in python if an error message does not pop up on the tested webpage when it should?](https://stackoverflow.com/questions/68548775/how-do-you-fail-a-unittest-in-python-if-an-error-message-does-not-pop-up-on-the/68550413#68550413)
 - [Answer by theNishant for Removing parts of a string returned when scraping with Selenium](https://stackoverflow.com/questions/68550003/removing-parts-of-a-string-returned-when-scraping-with-selenium/68550156#68550156)
-- [Answer by theNishant for How to select date from makemytrip having two months in popup](https://stackoverflow.com/questions/68544732/how-to-select-date-from-makemytrip-having-two-months-in-popup/68545656#68545656)
 <!-- STACKOVERFLOW:END -->

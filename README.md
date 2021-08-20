@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for Mulit line output text into variables](https://stackoverflow.com/questions/68862254/mulit-line-output-text-into-variables/68862421#68862421)
 - [Answer by theNishant for No such element exception Selenium](https://stackoverflow.com/questions/68680789/no-such-element-exception-selenium/68681102#68681102)
 - [Answer by theNishant for NullPointerException when extending BaseClass where driver is initialised](https://stackoverflow.com/questions/68663348/nullpointerexception-when-extending-baseclass-where-driver-is-initialised/68663541#68663541)
 - [Answer by theNishant for How to run tests without closing webdriver using PO?](https://stackoverflow.com/questions/68594177/how-to-run-tests-without-closing-webdriver-using-po/68594833#68594833)
 - [Answer by theNishant for find number of class after finding element by its xpath](https://stackoverflow.com/questions/68594272/find-number-of-class-after-finding-element-by-its-xpath/68594398#68594398)
-- [Answer by theNishant for Error with selenium when trying to input email and password PYTHON](https://stackoverflow.com/questions/68590878/error-with-selenium-when-trying-to-input-email-and-password-python/68591096#68591096)
 <!-- STACKOVERFLOW:END -->

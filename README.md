@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for not able scrape the element which contain the a text using selenium](https://stackoverflow.com/questions/68932906/not-able-scrape-the-element-which-contain-the-a-text-using-selenium/68933011#68933011)
 - [Answer by theNishant for How to get Newtwork status code from FETCH/XHR in selenium python](https://stackoverflow.com/questions/68923056/how-to-get-newtwork-status-code-from-fetch-xhr-in-selenium-python/68923507#68923507)
 - [Answer by theNishant for Mulit line elem text into variables](https://stackoverflow.com/questions/68862254/mulit-line-elem-text-into-variables/68862421#68862421)
 - [Answer by theNishant for No such element exception Selenium](https://stackoverflow.com/questions/68680789/no-such-element-exception-selenium/68681102#68681102)
 - [Answer by theNishant for NullPointerException when extending BaseClass where driver is initialised](https://stackoverflow.com/questions/68663348/nullpointerexception-when-extending-baseclass-where-driver-is-initialised/68663541#68663541)
-- [Answer by theNishant for How to run tests without closing webdriver using PO?](https://stackoverflow.com/questions/68594177/how-to-run-tests-without-closing-webdriver-using-po/68594833#68594833)
 <!-- STACKOVERFLOW:END -->

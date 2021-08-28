@@ -13,9 +13,9 @@
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by theNishant for How TestNG annotation from base class is executed when the Test inside the derived class is executed?](https://stackoverflow.com/questions/68966667/how-testng-annotation-from-base-class-is-executed-when-the-test-inside-the-deriv/68966726#68966726)
 - [Answer by theNishant for to_capabilities() missing 1 required positional argument: 'self'](https://stackoverflow.com/questions/68938211/to-capabilities-missing-1-required-positional-argument-self/68938361#68938361)
 - [Answer by theNishant for not able scrape the element which contain the a text using selenium](https://stackoverflow.com/questions/68932906/not-able-scrape-the-element-which-contain-the-a-text-using-selenium/68933011#68933011)
 - [Answer by theNishant for How to get Newtwork status code from FETCH/XHR in selenium python](https://stackoverflow.com/questions/68923056/how-to-get-newtwork-status-code-from-fetch-xhr-in-selenium-python/68923507#68923507)
 - [Answer by theNishant for Mulit line elem text into variables](https://stackoverflow.com/questions/68862254/mulit-line-elem-text-into-variables/68862421#68862421)
-- [Answer by theNishant for No such element exception Selenium](https://stackoverflow.com/questions/68680789/no-such-element-exception-selenium/68681102#68681102)
 <!-- STACKOVERFLOW:END -->
